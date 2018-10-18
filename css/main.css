@@ -1,3 +1,15 @@
 body {
-  font-family: Palatino;
+  font-family: Helvetica;
+  color: white;
+  background-color: #4C5760;
+}
+
+
+.book{
+  color: white;
+  border: 3px solid purple;
+  background-color: #FBCEFF;
+  border-radius: 7px;
+  text-align: center;
+  padding: 10px;
 }
